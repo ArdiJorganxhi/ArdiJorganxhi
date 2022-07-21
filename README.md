@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ardi Jorganxhi</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ardijorganxhi&label=Profile%20views&color=0433ff&style=flat" alt="ardijorganxhi" /> </p>
-
-
 
 - 🔭 I’m currently working on **Front-End Development**
 
