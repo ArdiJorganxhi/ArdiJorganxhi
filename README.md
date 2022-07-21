@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/ardjorganxhiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ardjorganxhiu" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ardi-jorganxhi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ardi jorganxhi" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ArdiJorganxhi/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ardi jorganxhiu" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ArdiJorganxhi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ardi jorganxhiu" height="30" width="40" /></a>
 <a href="https://instagram.com/ardjorganxhiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ardjorganxhiu" height="30" width="40" /></a>
 </p>
 
