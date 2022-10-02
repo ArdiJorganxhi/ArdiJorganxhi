@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **React & Java Spring Boot**
+- 🔭 I’m currently working on **React.js**
 
 - 🌱 I’m looking forward to learn **Flutter**
 
