@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **React.js & Java Spring Boot**
 
-- 🌱 I’m looking forward to learn **Kotlin**
+- 🌱 I’m looking forward to learn **Kotlin & Data Science**
 
 - 📫 How to reach me **ardijorganxhiu@gmail.com**
 
