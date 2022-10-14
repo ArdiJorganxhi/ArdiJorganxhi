@@ -6,9 +6,9 @@
 
 
 
-- 🔭 I’m currently working on **React.js & Java Spring Framework**
+- 🔭 I’m currently working on **React.js & Java Spring Boot**
 
-- 🌱 I’m looking forward to learn **Flutter**
+- 🌱 I’m looking forward to learn **Kotlin**
 
 - 📫 How to reach me **ardijorganxhiu@gmail.com**
 
