@@ -6,8 +6,8 @@
 
 
 
-- 🔭 I’m currently working on **React.js & .NET**
-- 🌱 I’m currently learning **Swift**
+- 🔭 I’m currently working on **React.js, .NET for Web & Swift for Mobile Development**
+
 
 - 📫 How to reach me **ardijorganxhiu@gmail.com**
 
