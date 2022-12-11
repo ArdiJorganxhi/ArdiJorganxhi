@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **iOS Development & Web Development**
+- 🔭 I’m currently working on **Mobile Development with Swift & Web Development with .NET and React.js**
 
 
 - 📫 How to reach me **ardijorganxhiu@gmail.com**
