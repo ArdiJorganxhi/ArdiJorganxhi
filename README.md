@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **iOS Development with Swift & Backend Development with .NET Core**
+- 🔭 I’m currently working on **iOS Development with Swift & Backend Development with .NET Core & Java Spring Boot**
 
 
 - 📫 How to reach me **ardijorganxhiu@gmail.com**
