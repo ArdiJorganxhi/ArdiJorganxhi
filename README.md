@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **Backend Development with Java Spring Boot & .NET Core**
+- 🔭 I’m currently working on **Backend Development with Java Spring Boot, .NET Core & Express.js/Node.js**
 
 
 - 📫 How to reach me **ardijorganxhiu@gmail.com**
