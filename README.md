@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ardi Jorganxhi</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer | Junior Software Developer @ Raiffeisen Bank Kosova</h3>
 
-
-
-
-
-
-- 🔭 I’m currently working on **Backend Development with Java Spring Boot & Express.js/Node.js**
 
 
 - 📫 How to reach me **ardijorganxhiu@gmail.com**
