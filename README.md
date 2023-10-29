@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ardi Jorganxhi</h1>
-<h3 align="center">Software Engineer | Junior Software Developer @ Raiffeisen Bank Kosova</h3>
+<h3 align="center">Software Developer @ Raiffeisen Bank Kosova</h3>
 
 
 
